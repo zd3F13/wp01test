@@ -1,5 +1,4 @@
 <?php get_header(); ?>
-<h1>SFTP Test</h1>
       <?php if (have_posts()): ?>
       <?php while (have_posts()): the_post(); ?>
       <article class="post">
